@@ -4,6 +4,7 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 scoop bucket add main
 scoop install main/curl
+scoop install main/fzf
 scoop install main/git
 scoop install main/jq
 
