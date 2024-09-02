@@ -5,6 +5,7 @@ scoop bucket add main
 scoop install main/curl
 scoop install main/fzf
 scoop install main/git
+scoop install main/gradle
 scoop install main/jq
 scoop install main/maven
 scoop install main/ripgrep
