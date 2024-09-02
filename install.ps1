@@ -11,3 +11,4 @@ scoop install main/ripgrep
 
 scoop bucket add extras
 scoop install extras/autohotkey
+scoop install extras/winscp
