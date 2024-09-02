@@ -7,6 +7,7 @@ scoop install main/curl
 scoop install main/fzf
 scoop install main/git
 scoop install main/jq
+scoop install main/ripgrep
 
 scoop bucket add extras
 scoop install extras/autohotkey
