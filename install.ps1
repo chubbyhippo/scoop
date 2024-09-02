@@ -1,7 +1,6 @@
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
-
 scoop bucket add main
 scoop install main/curl
 scoop install main/fzf
@@ -12,3 +11,6 @@ scoop install main/ripgrep
 scoop bucket add extras
 scoop install extras/autohotkey
 scoop install extras/winscp
+
+scoop bucket add java
+scoop install java/visualvm
