@@ -13,6 +13,7 @@ scoop install main/ripgrep
 scoop bucket add extras
 scoop install extras/autohotkey
 scoop install extras/winscp
+scoop install extras/vscode
 
 scoop bucket add java
 scoop install java/jmc
