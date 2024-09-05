@@ -19,3 +19,5 @@ scoop bucket add java
 scoop install java/jmc
 scoop install java/openjdk
 scoop install java/visualvm
+
+scoop bucket add nerd-fonts
