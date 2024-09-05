@@ -14,6 +14,7 @@ scoop bucket add extras
 scoop install extras/autohotkey
 scoop install extras/winscp
 scoop install extras/vscode
+reg import "$Home\scoop\apps\vscode\current\install-context.reg"
 
 scoop bucket add java
 scoop install java/jmc
