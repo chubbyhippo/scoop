@@ -28,6 +28,7 @@ scoop install java/visualvm
 
 scoop bucket add tilt-dev_scoop-bucket https://github.com/tilt-dev/scoop-bucket
 scoop install tilt-dev_scoop-bucket/tilt
+scoop install tilt-dev_scoop-bucket/ctlptl
 
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
