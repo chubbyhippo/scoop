@@ -9,6 +9,7 @@ scoop install main/gradle
 scoop install main/jq
 scoop install main/maven
 scoop install main/ripgrep
+scoop install main/starship
 
 scoop bucket add extras
 scoop install extras/autohotkey
