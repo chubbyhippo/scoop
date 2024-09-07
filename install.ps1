@@ -11,6 +11,7 @@ scoop install main/gradle
 scoop install main/jq
 scoop install main/maven
 scoop install main/nvm
+scoop install main/pandoc
 scoop install main/ripgrep
 scoop install main/starship
 
