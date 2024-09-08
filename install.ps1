@@ -23,7 +23,7 @@ scoop install extras/alacritty
 scoop install extras/autohotkey
 scoop install extras/googlechrome
 scoop install extras/jetbrains-toolbox
-scoop install extras/rancher-desktop
+scoop install extras/tor-browser
 scoop install extras/winscp
 scoop install extras/vscode
 reg import "$Home\scoop\apps\vscode\current\install-context.reg"
