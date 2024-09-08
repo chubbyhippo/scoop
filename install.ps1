@@ -11,6 +11,7 @@ scoop install main/go
 scoop install main/gradle
 scoop install main/jq
 scoop install main/maven
+scoop install main/minikube
 scoop install main/nvm
 scoop install main/pandoc
 scoop install main/ripgrep
