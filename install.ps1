@@ -9,6 +9,7 @@ scoop install main/curl
 scoop install main/docker
 scoop install main/fzf
 scoop install main/git
+git config --global credential.helper manager
 scoop install main/go
 scoop install main/gradle
 scoop install main/jbang
