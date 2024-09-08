@@ -25,6 +25,7 @@ scoop install main/starship
 scoop bucket add extras
 scoop install extras/alacritty
 scoop install extras/autohotkey
+scoop install extras/gimp
 scoop install extras/googlechrome
 scoop install extras/jetbrains-toolbox
 scoop install extras/qbittorrent
