@@ -11,6 +11,7 @@ scoop install main/fzf
 scoop install main/git
 scoop install main/go
 scoop install main/gradle
+scoop install main/jbang
 scoop install main/jq
 scoop install main/maven
 scoop install main/minikube
