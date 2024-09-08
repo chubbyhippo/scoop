@@ -21,6 +21,7 @@ scoop install main/starship
 scoop bucket add extras
 scoop install extras/alacritty
 scoop install extras/autohotkey
+scoop install extras/googlechrome
 scoop install extras/jetbrains-toolbox
 scoop install extras/rancher-desktop
 scoop install extras/winscp
