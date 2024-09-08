@@ -30,6 +30,7 @@ scoop install extras/googlechrome
 scoop install extras/jetbrains-toolbox
 scoop install extras/qbittorrent
 scoop install extras/rancher-desktop
+scoop install extras/sumatrapdf
 scoop install extras/tor-browser
 scoop install extras/winscp
 scoop install extras/vscode
