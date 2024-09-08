@@ -28,6 +28,7 @@ scoop install extras/autohotkey
 scoop install extras/gimp
 scoop install extras/googlechrome
 scoop install extras/jetbrains-toolbox
+scoop install extras/krita
 scoop install extras/qbittorrent
 scoop install extras/rancher-desktop
 scoop install extras/sumatrapdf
