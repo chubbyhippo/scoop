@@ -7,6 +7,7 @@ reg import "$Home\scoop\apps\7zip\current\install-context.reg"
 scoop install main/curl
 scoop install main/fzf
 scoop install main/git
+scoop install main/go
 scoop install main/gradle
 scoop install main/jq
 scoop install main/maven
