@@ -34,6 +34,7 @@ scoop install extras/jetbrains-toolbox
 scoop install extras/krita
 scoop install extras/qbittorrent
 scoop install extras/rancher-desktop
+scoop install extras/rufus
 scoop install extras/sumatrapdf
 scoop install extras/tor-browser
 scoop install extras/winscp
