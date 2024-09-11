@@ -20,6 +20,7 @@ scoop install main/minikube
 scoop install main/neovim
 scoop install main/nvm
 scoop install main/pandoc
+scoop install main/php
 scoop install main/python
 scoop install main/ripgrep
 scoop install main/starship
