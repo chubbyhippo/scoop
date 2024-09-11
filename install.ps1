@@ -23,6 +23,7 @@ scoop install main/pandoc
 scoop install main/python
 scoop install main/ripgrep
 scoop install main/starship
+scoop install main/wget
 
 scoop bucket add extras
 scoop install extras/alacritty
