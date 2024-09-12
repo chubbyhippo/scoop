@@ -18,6 +18,7 @@ scoop install main/jq
 scoop install main/maven
 scoop install main/minikube
 scoop install main/neovim
+scoop install main/nmap
 scoop install main/nvm
 scoop install main/pandoc
 scoop install main/php
