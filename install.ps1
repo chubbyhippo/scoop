@@ -20,7 +20,7 @@ scoop install main/minikube
 scoop install main/neovim
 scoop install main/nmap
 Start-Process -FilePath "$Home\scoop\apps\nmap\current\npcap.exe" -Verb "runAs"
-reg import "$Home\scoop\apps\nmap\current\nmap_performance.reg"
+regedt32 "$Home\scoop\apps\nmap\current\nmap_performance.reg"
 scoop install main/nvm
 scoop install main/pandoc
 scoop install main/php
