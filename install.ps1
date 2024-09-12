@@ -40,7 +40,6 @@ scoop install extras/googlechrome
 scoop install extras/inkscape
 scoop install extras/jetbrains-toolbox
 scoop install extras/krita
-scoop install extras/metasploit-framework
 scoop install extras/qbittorrent
 scoop install extras/rancher-desktop
 scoop install extras/rufus
