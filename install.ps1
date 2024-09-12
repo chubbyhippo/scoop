@@ -17,6 +17,7 @@ scoop install main/jbang
 scoop install main/jq
 scoop install main/maven
 scoop install main/minikube
+scoop install main/msys2
 scoop install main/neovim
 scoop install main/nmap
 Start-Process -FilePath "$Home\scoop\apps\nmap\current\npcap.exe" -Verb "runAs"
