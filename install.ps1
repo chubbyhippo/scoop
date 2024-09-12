@@ -19,6 +19,8 @@ scoop install main/maven
 scoop install main/minikube
 scoop install main/neovim
 scoop install main/nmap
+Start-Process -FilePath "$Home\scoop\apps\nmap\current\npcap.exe" -Verb "runAs"
+
 scoop install main/nvm
 scoop install main/pandoc
 scoop install main/php
