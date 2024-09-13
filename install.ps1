@@ -56,7 +56,7 @@ scoop install java/openjdk
 scoop install java/visualvm
 
 scoop bucket add nonportable
-scoop install nonportable/virtualbox-with-extension-pack-np
+Start-Process powershell -ArgumentList "-Command `"scoop install nonportable/virtualbox-with-extension-pack-np`"" -Verb RunAs
 
 scoop bucket add tilt-dev_scoop-bucket https://github.com/tilt-dev/scoop-bucket
 scoop install tilt-dev_scoop-bucket/tilt
