@@ -7,6 +7,7 @@ reg import "$Home\scoop\apps\7zip\current\install-context.reg"
 scoop install main/asciidoctorj
 scoop install main/curl
 scoop install main/docker
+scoop install main/fd
 scoop install main/fzf
 scoop install main/git
 git config --global credential.helper manager
