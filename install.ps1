@@ -5,6 +5,7 @@ scoop bucket add main
 scoop install main/7zip
 reg import "$Home\scoop\apps\7zip\current\install-context.reg"
 scoop install main/asciidoctorj
+scoop install main/bat
 scoop install main/curl
 scoop install main/docker
 scoop install main/fd
