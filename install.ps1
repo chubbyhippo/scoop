@@ -18,6 +18,7 @@ scoop install main/gradle
 scoop install main/jbang
 scoop install main/jq
 scoop install main/llvm
+scoop install main/lsd
 scoop install main/maven
 scoop install main/minikube
 scoop install main/msys2
