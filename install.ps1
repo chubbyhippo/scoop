@@ -21,6 +21,7 @@ scoop install main/jq
 scoop install main/lazydocker
 scoop install main/llvm
 scoop install main/lsd
+scoop install main/luarocks
 scoop install main/lynx
 scoop install main/maven
 scoop install main/minikube
