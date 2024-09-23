@@ -36,6 +36,7 @@ scoop install main/starship
 scoop install main/stylua
 scoop install main/vagrant
 scoop install main/wget
+scoop install main/zig
 
 scoop bucket add extras
 scoop install extras/alacritty
