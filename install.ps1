@@ -37,6 +37,7 @@ scoop install main/ruby
 scoop install main/sqlite
 scoop install main/starship
 scoop install main/stylua
+scoop install main/tldr
 scoop install main/vagrant
 scoop install main/wget
 scoop install main/zig
