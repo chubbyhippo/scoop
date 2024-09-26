@@ -12,6 +12,7 @@ scoop install main/curl
 scoop install main/docker
 scoop install main/fd
 scoop install main/fzf
+scoop install main/gcc
 scoop install main/git
 git config --global credential.helper manager
 reg import "$Home\scoop\apps\git\current\install-context.reg"
