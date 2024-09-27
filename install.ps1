@@ -80,3 +80,5 @@ scoop install tilt-dev_scoop-bucket/ctlptl
 
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
+
+scoop bucket add games
