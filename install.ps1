@@ -82,3 +82,4 @@ scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
 
 scoop bucket add games
+scoop install games/goggalaxy
