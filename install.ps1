@@ -38,6 +38,7 @@ scoop install main/ruby
 scoop install main/shfmt
 scoop install main/sqlite
 scoop install main/starship
+curl -sOL https://aka.ms/vs/17/release/vs_community.exe; Start-Process -Wait -FilePath ./vs_community.exe -ArgumentList '--passive --wait --norestart --nocache --add Microsoft.VisualStudio.Component.Windows11SDK.22000 --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64'; Remove-Item -Force ./vs_community.exe; scoop install main/swift
 scoop install main/stylua
 scoop install main/tldr
 scoop install main/vagrant
