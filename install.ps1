@@ -63,6 +63,7 @@ scoop install extras/sumatrapdf
 scoop install extras/tor-browser
 scoop install extras/winscp
 scoop install extras/vcredist
+scoop install extras/vcredist2022
 scoop install extras/vlc
 scoop install extras/vscode
 reg import "$Home\scoop\apps\vscode\current\install-context.reg"
