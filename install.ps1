@@ -21,6 +21,7 @@ scoop install main/gradle
 scoop install main/jbang
 scoop install main/jq
 scoop install main/kotlin
+scoop install main/kotlin-native
 scoop install main/lazydocker
 scoop install main/llvm
 scoop install main/lsd
