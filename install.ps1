@@ -35,6 +35,7 @@ scoop install main/minikube
 scoop install main/msys2
 scoop install main/neovim
 scoop install main/nvm
+scoop install main/opentofu
 scoop install main/pandoc
 scoop install main/php
 scoop install main/python
