@@ -55,6 +55,7 @@ scoop install main/zig
 scoop bucket add extras
 scoop install extras/alacritty
 scoop install extras/autohotkey
+scoop install extras/bruno
 scoop install extras/dbeaver
 scoop install extras/emacs
 scoop install extras/firefox
