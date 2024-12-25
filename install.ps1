@@ -60,6 +60,7 @@ scoop install extras/emacs
 scoop install extras/firefox
 scoop install extras/gimp
 scoop install extras/googlechrome
+scoop install extras/hoppscotch
 scoop install extras/inkscape
 scoop install extras/jetbrains-toolbox
 scoop install extras/krita
