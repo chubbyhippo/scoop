@@ -9,7 +9,6 @@ scoop install main/bat
 scoop install main/btop
 scoop install main/cmake
 scoop install main/curl
-scoop install main/docker
 scoop install main/elixir
 scoop install main/erlang
 scoop install main/fd
