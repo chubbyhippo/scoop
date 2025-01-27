@@ -29,7 +29,6 @@ scoop install main/lsd
 scoop install main/luarocks
 scoop install main/lynx
 scoop install main/maven
-scoop install main/minikube
 scoop install main/msys2
 scoop install main/neovim
 scoop install main/nvm
