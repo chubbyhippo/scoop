@@ -4,51 +4,33 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 scoop bucket add main
 scoop install main/7zip
 reg import "$Home\scoop\apps\7zip\current\install-context.reg"
-scoop install main/asciidoctorj
 scoop install main/bat
 scoop install main/btop
 scoop install main/cmake
 scoop install main/curl
-scoop install main/elixir
-scoop install main/erlang
 scoop install main/fd
 scoop install main/fzf
-scoop install main/gcc
-scoop install main/gleam
 scoop install main/git
 git config --global credential.helper manager
 reg import "$Home\scoop\apps\git\current\install-context.reg"
-scoop install main/go
-scoop install main/gradle
-scoop install main/jbang
 scoop install main/jq
-scoop install main/kotlin
-scoop install main/kotlin-native
-scoop install main/llvm
 scoop install main/lsd
-scoop install main/luarocks
 scoop install main/lynx
 scoop install main/maven
 scoop install main/msys2
 scoop install main/neovim
-scoop install main/nvm
 scoop install main/pandoc
-scoop install main/php
 scoop install main/python
 scoop install main/ripgrep
-scoop install main/ruby
 scoop install main/shfmt
 scoop install main/sqlite
 scoop install main/tenv
 scoop install main/starship
-Invoke-WebRequest -Uri "https://aka.ms/vs/17/release/vs_community.exe" -OutFile "./vs_community.exe"; Start-Process -Wait -FilePath ./vs_community.exe -ArgumentList '--passive --wait --norestart --nocache --add Microsoft.VisualStudio.Component.Windows11SDK.22000 --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64'; Remove-Item -Force ./vs_community.exe; scoop install main/swift
-scoop install main/stylua
 scoop install main/telnet
 scoop install main/tldr
 scoop install main/vagrant
 scoop install main/vimtutor
 scoop install main/wget
-scoop install main/zig
 
 scoop bucket add extras
 scoop install extras/alacritty
