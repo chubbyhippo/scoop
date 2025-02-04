@@ -20,15 +20,12 @@ scoop install main/maven
 scoop install main/msys2
 scoop install main/neovim
 scoop install main/pandoc
-scoop install main/python
 scoop install main/ripgrep
 scoop install main/shfmt
-scoop install main/sqlite
 scoop install main/tenv
 scoop install main/starship
 scoop install main/telnet
 scoop install main/tldr
-scoop install main/vagrant
 scoop install main/vimtutor
 scoop install main/wget
 
