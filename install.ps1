@@ -58,10 +58,6 @@ scoop install java/visualvm
 scoop bucket add nonportable
 Start-Process powershell -ArgumentList "-Command `"scoop install nonportable/virtualbox-with-extension-pack-np`"" -Verb RunAs
 
-scoop bucket add tilt-dev_scoop-bucket https://github.com/tilt-dev/scoop-bucket
-scoop install tilt-dev_scoop-bucket/tilt
-scoop install tilt-dev_scoop-bucket/ctlptl
-
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
 
