@@ -26,6 +26,7 @@ scoop install main/tenv
 scoop install main/starship
 scoop install main/telnet
 scoop install main/tldr
+scoop install main/trivy
 scoop install main/vimtutor
 scoop install main/wget
 
