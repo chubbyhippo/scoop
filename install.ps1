@@ -13,6 +13,7 @@ scoop install main/fzf
 scoop install main/git
 git config --global credential.helper manager
 reg import "$Home\scoop\apps\git\current\install-context.reg"
+scoop install main/grype
 scoop install main/jq
 scoop install main/lsd
 scoop install main/lynx
