@@ -38,6 +38,7 @@ scoop install extras/emacs
 scoop install extras/firefox
 scoop install extras/gimp
 scoop install extras/hoppscotch
+scoop install extras/idea
 scoop install extras/inkscape
 scoop install extras/krita
 scoop install extras/lazygit
