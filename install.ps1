@@ -33,6 +33,7 @@ scoop install main/wget
 
 scoop bucket add extras
 scoop install extras/autohotkey
+scoop install extras/chromium
 scoop install extras/dbeaver
 scoop install extras/emacs
 scoop install extras/firefox
