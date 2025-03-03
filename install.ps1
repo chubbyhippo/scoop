@@ -23,6 +23,7 @@ scoop install main/msys2
 scoop install main/neovim
 scoop install main/pandoc
 scoop install main/ripgrep
+scoop install main/rustup
 scoop install main/shfmt
 scoop install main/tenv
 scoop install main/starship
