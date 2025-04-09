@@ -37,6 +37,7 @@ scoop bucket add extras
 scoop install extras/autohotkey
 scoop install extras/chromium
 scoop install extras/dbeaver
+scoop install extras/emacs
 scoop install extras/firefox
 scoop install extras/gimp
 scoop install extras/hoppscotch
