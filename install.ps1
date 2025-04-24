@@ -22,6 +22,7 @@ scoop install main/mise
 scoop install main/msys2
 scoop install main/neovim
 scoop install main/pandoc
+scoop install main/podman
 scoop install main/racket
 scoop install main/ripgrep
 scoop install main/rustup
