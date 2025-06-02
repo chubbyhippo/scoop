@@ -64,5 +64,6 @@ scoop install java/visualvm
 scoop bucket add nonportable
 Start-Process powershell -ArgumentList "-Command `"scoop install nonportable/virtualbox-with-extension-pack-np`"" -Verb RunAs
 
+scoop bucket add sysinternals
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
