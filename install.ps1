@@ -67,3 +67,5 @@ Start-Process powershell -ArgumentList "-Command `"scoop install nonportable/vir
 scoop bucket add sysinternals
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrains-Mono
+
+scoop install sysinternals/zoomit
