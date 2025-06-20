@@ -21,6 +21,7 @@ scoop install main/latex
 scoop install main/lsd
 scoop install main/lynx
 scoop install main/maven
+scoop install main/mingw
 scoop install main/mise
 scoop install main/msys2
 scoop install main/neovim
