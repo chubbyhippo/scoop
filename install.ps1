@@ -34,6 +34,7 @@ scoop install main/starship
 scoop install main/telnet
 scoop install main/tldr
 scoop install main/trivy
+scoop install main/vcpkg
 scoop install main/vimtutor
 scoop install main/wget
 
