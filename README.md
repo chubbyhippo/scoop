@@ -11,3 +11,7 @@ Invoke-RestMethod https://raw.githubusercontent.com/chubbyhippo/scoop/refs/heads
 ```powershell
 scoop update -a
 ```
+# cleanup cache
+```powershell
+scoop cache rm *
+```
