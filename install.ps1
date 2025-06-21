@@ -1,6 +1,3 @@
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
-
 scoop bucket add main
 scoop install main/7zip
 reg import "$Home\scoop\apps\7zip\current\install-context.reg"
