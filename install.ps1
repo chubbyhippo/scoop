@@ -64,6 +64,7 @@ reg import "$Home\scoop\apps\vscode\current\install-context.reg"
 scoop bucket add java
 scoop install java/graalvm
 scoop install java/jmc
+scoop install java/openjdk
 scoop install java/visualvm
 
 scoop bucket add nonportable
