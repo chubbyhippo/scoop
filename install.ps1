@@ -53,6 +53,7 @@ scoop install extras/krita
 scoop install extras/lazygit
 scoop install extras/qbittorrent
 scoop install extras/rufus
+scoop install extras/soapui
 scoop install extras/springboot
 scoop install extras/sumatrapdf
 scoop install extras/tor-browser
