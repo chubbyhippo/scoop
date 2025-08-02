@@ -38,6 +38,7 @@ scoop install main/trivy
 scoop install main/vcpkg
 scoop install main/vimtutor
 scoop install main/wget
+scoop install main/yt-dlp
 
 scoop bucket add extras
 scoop install extras/autohotkey
