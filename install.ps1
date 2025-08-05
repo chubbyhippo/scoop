@@ -30,6 +30,7 @@ scoop install main/ripgrep
 scoop install main/rustup
 scoop install main/shellcheck
 scoop install main/shfmt
+scoop install main/sqlite
 scoop install main/tenv
 scoop install main/starship
 scoop install main/telnet
