@@ -32,6 +32,7 @@ scoop install main/rustup
 scoop install main/shellcheck
 scoop install main/shfmt
 scoop install main/sqlite
+scoop install main/starship
 scoop install main/tenv
 scoop install main/telnet
 scoop install main/tldr
