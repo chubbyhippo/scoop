@@ -42,6 +42,7 @@ scoop install main/vimtutor
 scoop install main/wget
 scoop install main/winfetch
 scoop install main/yt-dlp
+scoop install main/zstd
 
 scoop bucket add extras
 scoop install extras/autohotkey
