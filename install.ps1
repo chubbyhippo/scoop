@@ -79,3 +79,4 @@ scoop bucket add sysinternals
 scoop install sysinternals/zoomit
 
 scoop bucket add games
+scoop install games/heroic-games-launcher
