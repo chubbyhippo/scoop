@@ -77,3 +77,5 @@ scoop install nerd-fonts/JetBrains-Mono
 
 scoop bucket add sysinternals
 scoop install sysinternals/zoomit
+
+scoop bucket add games
