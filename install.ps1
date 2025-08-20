@@ -18,6 +18,7 @@ scoop install main/grype
 scoop install main/jq
 scoop install main/latex
 scoop install main/lsd
+scoop install main/luarocks
 scoop install main/lynx
 scoop install main/maven
 scoop install main/mingw
