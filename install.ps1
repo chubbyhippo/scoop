@@ -41,6 +41,7 @@ scoop install main/telnet
 scoop install main/tldr
 scoop install main/tree-sitter
 scoop install main/trivy
+scoop install main/unzip
 scoop install main/vcpkg
 scoop install main/vimtutor
 scoop install main/wget
