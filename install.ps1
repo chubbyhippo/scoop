@@ -24,7 +24,6 @@ scoop install main/lsd
 scoop install main/luarocks
 scoop install main/lynx
 scoop install main/maven
-scoop install main/miktex
 scoop install main/mingw
 scoop install main/mise
 scoop install main/msys2
