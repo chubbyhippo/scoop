@@ -37,6 +37,7 @@ scoop install main/shellcheck
 scoop install main/shfmt
 scoop install main/sqlite
 scoop install main/tar
+scoop install main/tectonic
 scoop install main/tenv
 scoop install main/telnet
 scoop install main/tldr
