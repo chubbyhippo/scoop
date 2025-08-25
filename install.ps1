@@ -82,7 +82,6 @@ scoop install java/openjdk
 scoop install java/visualvm
 
 scoop bucket add nerd-fonts
-scoop install nerd-fonts/JetBrains-Mono
 
 scoop bucket add sysinternals
 scoop install sysinternals/zoomit
