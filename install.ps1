@@ -6,6 +6,7 @@ scoop install main/btop
 scoop install main/cmake
 scoop install main/conan
 scoop install main/curl
+scoop install extras/emacs
 scoop install main/fd
 scoop install main/fzf
 scoop install main/gcc
