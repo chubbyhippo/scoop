@@ -1,6 +1,7 @@
 scoop bucket add main
 scoop install main/7zip
 reg import "$Home\scoop\apps\7zip\current\install-context.reg"
+scoop install main/aspell
 scoop install main/bat
 scoop install main/btop
 scoop install main/cmake
@@ -59,6 +60,7 @@ scoop install extras/autohotkey
 scoop install extras/chromium
 scoop install extras/dbeaver
 scoop install extras/firefox
+
 scoop install extras/gimp
 scoop install extras/hoppscotch
 scoop install extras/inkscape
