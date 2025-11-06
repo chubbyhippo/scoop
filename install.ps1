@@ -4,6 +4,7 @@ reg import "$Home\scoop\apps\7zip\current\install-context.reg"
 scoop install main/aspell
 scoop install main/bat
 scoop install main/btop
+scoop install main/clangd
 scoop install main/cmake
 scoop install main/conan
 scoop install main/curl
