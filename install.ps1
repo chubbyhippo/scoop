@@ -24,6 +24,7 @@ scoop install main/grype
 scoop install main/imagemagick
 scoop install main/jq
 scoop install main/latex
+scoop install main/liquibase
 scoop install main/llvm
 scoop install main/lsd
 scoop install main/luarocks
