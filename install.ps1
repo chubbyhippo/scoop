@@ -41,6 +41,7 @@ scoop install main/python
 reg import "$Home\scoop\apps\python\current\install-pep-514.reg"
 scoop install main/racket
 scoop install main/ripgrep
+scoop install main/ruby
 scoop install main/rustup
 scoop install main/shellcheck
 scoop install main/shfmt
