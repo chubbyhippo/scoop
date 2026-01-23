@@ -51,7 +51,6 @@ scoop install main/tar
 scoop install main/tectonic
 scoop install main/tenv
 scoop install main/telnet
-scoop install main/tldr
 scoop install main/tlrc
 scoop install main/tree-sitter
 scoop install main/trivy
