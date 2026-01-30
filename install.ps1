@@ -66,6 +66,7 @@ scoop bucket add extras
 scoop install extras/autohotkey
 scoop bucket add scoop-clojure https://github.com/littleli/scoop-clojure
 scoop install babashka
+scoop install extras/bruno
 scoop install extras/chromium
 scoop install extras/dbeaver
 scoop install extras/emacs
