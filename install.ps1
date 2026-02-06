@@ -69,7 +69,6 @@ scoop install babashka
 scoop install extras/bruno
 scoop install extras/chromium
 scoop install extras/dbeaver
-scoop install extras/emacs
 scoop install extras/firefox
 scoop install extras/gimp
 scoop install extras/inkscape
