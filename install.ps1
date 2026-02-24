@@ -40,6 +40,7 @@ scoop install main/pandoc
 scoop install main/pnpm
 scoop install main/python
 reg import "$Home\scoop\apps\python\current\install-pep-514.reg"
+scoop install main/quarkus-cli
 scoop install main/racket
 scoop install main/ripgrep
 scoop install main/ruby
