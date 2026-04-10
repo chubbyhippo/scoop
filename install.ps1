@@ -9,6 +9,7 @@ scoop install main/cmake
 scoop install main/conan
 scoop install main/curl
 scoop install main/elixir
+scoop install main/exercism
 scoop install main/fd
 scoop install main/fzf
 scoop install main/gcc
