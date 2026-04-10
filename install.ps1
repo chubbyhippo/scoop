@@ -19,7 +19,6 @@ git config --global credential.helper manager
 reg import "$Home\scoop\apps\git\current\install-context.reg"
 scoop install main/fastfetch
 scoop install main/gnutls
-scoop install main/go
 scoop install main/gradle
 scoop install main/grype
 scoop install main/imagemagick
