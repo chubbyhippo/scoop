@@ -35,10 +35,7 @@ scoop install main/msys2
 scoop install main/neovim
 scoop install main/ninja
 scoop install main/pandoc
-scoop install main/quarkus-cli
-scoop install main/racket
 scoop install main/ripgrep
-scoop install main/ruby
 scoop install main/rustup
 scoop install main/shellcheck
 scoop install main/shfmt
