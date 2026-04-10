@@ -69,7 +69,6 @@ scoop install extras/firefox
 scoop install extras/gatling
 scoop install extras/gimp
 scoop install extras/inkscape
-scoop install extras/jetbrains-toolbox
 scoop install extras/krita
 scoop install extras/lazygit
 scoop install extras/qbittorrent
