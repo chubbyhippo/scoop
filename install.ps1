@@ -58,6 +58,7 @@ scoop bucket add scoop-clojure https://github.com/littleli/scoop-clojure
 scoop install babashka
 scoop install extras/bruno
 scoop install extras/chromium
+scoop install extras/clj-deps
 scoop install extras/dbeaver
 scoop install extras/firefox
 scoop install extras/gatling
