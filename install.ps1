@@ -54,9 +54,7 @@ scoop install main/zstd
 
 scoop bucket add extras
 scoop install extras/autohotkey
-scoop bucket add scoop-clojure https://github.com/littleli/scoop-clojure
-scoop install clj-deps
-scoop install babashka
+
 scoop install extras/bruno
 scoop install extras/chromium
 scoop install extras/dbeaver
@@ -94,3 +92,5 @@ scoop install games/heroic-games-launcher
 
 scoop bucket add scoop-clojure https://github.com/littleli/scoop-clojure
 scoop install clj-kondo
+scoop install clj-deps
+scoop install babashka
