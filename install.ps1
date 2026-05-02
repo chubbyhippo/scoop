@@ -74,7 +74,7 @@ scoop install extras/vlc
 scoop install extras/vscode
 reg import "$Home\scoop\apps\vscode\current\install-context.reg"
 scoop install extras/vscodium
-
+reg import "$Home\scoop\apps\vscodium\current\install-context.reg"
 
 scoop bucket add java
 scoop install java/graalvm25
