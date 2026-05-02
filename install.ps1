@@ -73,6 +73,8 @@ scoop install extras/winscp
 scoop install extras/vlc
 scoop install extras/vscode
 reg import "$Home\scoop\apps\vscode\current\install-context.reg"
+scoop install extras/vscodium
+
 
 scoop bucket add java
 scoop install java/graalvm25
