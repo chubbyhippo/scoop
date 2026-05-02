@@ -34,7 +34,6 @@ scoop install main/neovim
 scoop install main/ninja
 scoop install main/pandoc
 scoop install main/ripgrep
-scoop install main/rustup
 scoop install main/shellcheck
 scoop install main/shfmt
 scoop install main/sqlite
