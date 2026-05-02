@@ -88,9 +88,6 @@ scoop install nerd-fonts/JetBrainsMono-NF-Mono
 scoop bucket add sysinternals
 scoop install sysinternals/zoomit
 
-scoop bucket add games
-scoop install games/heroic-games-launcher
-
 scoop bucket add scoop-clojure https://github.com/littleli/scoop-clojure
 scoop install clj-kondo
 scoop install clj-deps
