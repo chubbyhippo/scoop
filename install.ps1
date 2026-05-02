@@ -63,6 +63,7 @@ scoop install extras/gimp
 scoop install extras/inkscape
 scoop install extras/krita
 scoop install extras/lazygit
+scoop install extras/obs-studio
 scoop install extras/qbittorrent
 scoop install extras/rufus
 scoop install extras/soapui
