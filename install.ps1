@@ -65,6 +65,7 @@ scoop install extras/krita
 scoop install extras/lazygit
 scoop install extras/obs-studio
 scoop install extras/qbittorrent
+scoop install extras/rancher-desktop
 scoop install extras/rufus
 scoop install extras/soapui
 scoop install extras/springboot
