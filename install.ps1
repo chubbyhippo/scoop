@@ -58,6 +58,7 @@ scoop install extras/autohotkey
 scoop install extras/bruno
 scoop install extras/chromium
 scoop install extras/dbeaver
+scoop install extras/emacs
 scoop install extras/firefox
 scoop install extras/gatling
 scoop install extras/gimp
