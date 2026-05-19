@@ -87,6 +87,7 @@ scoop install java/jmc
 scoop install java/openjdk
 scoop install java/visualvm
 scoop install java/zulu25-jdk
+scoop install java/zulumc
 
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrainsMono-NF-Mono
