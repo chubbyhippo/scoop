@@ -83,7 +83,6 @@ reg import "$Home\scoop\apps\vscodium\current\install-context.reg"
 
 scoop bucket add java
 scoop install java/graalvm25
-scoop install java/jmc
 scoop install java/visualvm
 scoop install java/zulu25-jdk
 scoop install java/zulumc
