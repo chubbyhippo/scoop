@@ -35,6 +35,7 @@ scoop install main/neovim
 scoop install main/ninja
 scoop install main/pandoc
 scoop install main/php
+scoop install main/racket
 scoop install main/ripgrep
 scoop install main/roswell
 scoop install main/shellcheck
