@@ -6,7 +6,6 @@ scoop install main/bat
 scoop install main/btop
 scoop install main/clangd
 scoop install main/cmake
-scoop install main/composer
 scoop install main/conan
 scoop install main/curl
 scoop install main/exercism
