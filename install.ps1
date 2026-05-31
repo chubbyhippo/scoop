@@ -37,7 +37,6 @@ scoop install main/roswell
 scoop install main/shellcheck
 scoop install main/shfmt
 scoop install main/sqlite
-scoop install main/symfony-cli
 scoop install main/tar
 scoop install main/tenv
 scoop install main/telnet
