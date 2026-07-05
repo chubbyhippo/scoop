@@ -22,7 +22,6 @@ scoop install main/jq
 scoop install main/latex
 scoop install main/llvm
 scoop install main/lsd
-scoop install main/luarocks
 scoop install main/lynx
 scoop install main/mingw
 scoop install main/msys2
