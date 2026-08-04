@@ -40,6 +40,7 @@ scoop install main/tree-sitter
 scoop install main/trivy
 scoop install main/unzip
 scoop install main/vcpkg
+scoop install main/wkhtmltopdf
 scoop install main/wget
 scoop install main/winfetch
 scoop install main/yt-dlp
