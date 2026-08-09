@@ -32,6 +32,7 @@ scoop install main/msys2
 scoop install main/neovim
 scoop install main/ninja
 scoop install main/pandoc
+scoop install main/perl
 scoop install main/poppler
 scoop install main/qpdf
 scoop install main/ripgrep
