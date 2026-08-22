@@ -21,6 +21,7 @@ scoop install main/gnutls
 scoop install main/grep
 scoop install main/grype
 scoop install main/jq
+scoop install main/imagemagick
 scoop install main/latex
 scoop install main/llvm
 scoop install main/lsd
