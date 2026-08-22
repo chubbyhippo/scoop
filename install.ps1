@@ -44,6 +44,7 @@ scoop install main/tar
 scoop install main/telnet
 scoop install main/tenv
 scoop install main/tesseract
+scoop install main/tesseract-languages
 scoop install main/tlrc
 scoop install main/tree-sitter
 scoop install main/trivy
