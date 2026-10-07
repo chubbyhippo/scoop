@@ -99,10 +99,5 @@ scoop install nerd-fonts/JetBrainsMono-NF-Mono
 scoop bucket add sysinternals
 scoop install sysinternals/zoomit
 
-scoop bucket add scoop-clojure https://github.com/littleli/scoop-clojure
-scoop install clj-kondo
-scoop install clj-deps
-scoop install babashka
-
 scoop bucket add scoop-misc https://github.com/kiennq/scoop-misc
 scoop install emacs-k
