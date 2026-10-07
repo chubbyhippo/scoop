@@ -82,7 +82,6 @@ scoop install extras/vscode
 reg import "$Home\scoop\apps\vscode\current\install-context.reg"
 scoop install extras/vscodium
 reg import "$Home\scoop\apps\vscodium\current\install-context.reg"
-scoop install extras/php-xdebug
 
 scoop bucket add nerd-fonts
 scoop install nerd-fonts/JetBrainsMono-NF-Mono
