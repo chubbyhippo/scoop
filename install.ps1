@@ -5,30 +5,6 @@ scoop install main/git
 git config --global credential.helper manager
 reg import "$Home\scoop\apps\git\current\install-context.reg"
 scoop install main/mise
-scoop install main/msys2
-scoop install main/neovim
-scoop install main/ninja
-scoop install main/pandoc
-scoop install main/poppler
-scoop install main/qpdf
-scoop install main/ripgrep
-scoop install main/shellcheck
-scoop install main/shfmt
-scoop install main/sqlite
-scoop install main/tar
-scoop install main/telnet
-scoop install main/tenv
-scoop install main/tesseract
-scoop install main/tesseract-languages
-scoop install main/tlrc
-scoop install main/tree-sitter
-scoop install main/unzip
-scoop install main/vcpkg
-scoop install main/wkhtmltopdf
-scoop install main/wget
-scoop install main/winfetch
-scoop install main/yt-dlp
-scoop install main/zstd
 
 scoop bucket add extras
 scoop install extras/autohotkey
