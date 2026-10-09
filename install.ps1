@@ -4,18 +4,6 @@ reg import "$Home\scoop\apps\7zip\current\install-context.reg"
 scoop install main/git
 git config --global credential.helper manager
 reg import "$Home\scoop\apps\git\current\install-context.reg"
-scoop install main/fastfetch
-scoop install main/gnutls
-scoop install main/grep
-scoop install main/grype
-scoop install main/jq
-scoop install main/imagemagick
-scoop install main/latex
-scoop install main/llvm
-scoop install main/lsd
-scoop install main/lynx
-scoop install main/miktex
-scoop install main/mingw
 scoop install main/mise
 scoop install main/msys2
 scoop install main/neovim
