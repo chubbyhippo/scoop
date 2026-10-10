@@ -13,7 +13,6 @@ scoop install extras/firefox
 scoop install extras/gimp
 scoop install extras/gpg4win
 scoop install extras/inkscape
-scoop install extras/jmeter
 scoop install extras/kanata
 scoop install extras/krita
 scoop install extras/obs-studio
