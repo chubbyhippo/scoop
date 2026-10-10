@@ -19,7 +19,6 @@ scoop install extras/obs-studio
 scoop install extras/qbittorrent
 scoop install extras/rufus
 scoop install extras/soapui
-scoop install extras/springboot
 scoop install extras/sumatrapdf
 scoop install extras/tor-browser
 scoop install extras/winscp
