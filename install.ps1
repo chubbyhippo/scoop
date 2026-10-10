@@ -6,6 +6,7 @@ git config --global credential.helper manager
 reg import "$Home\scoop\apps\git\current\install-context.reg"
 scoop install main/mise
 
+scoop bucket add extras
 scoop install extras/bruno
 scoop install extras/chromium
 scoop install extras/dbeaver
